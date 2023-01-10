@@ -1,4 +1,4 @@
-# opensourceproject
+# opensource_project
 
 ### 가족 관계 데이터 세트로 서로 다른 두 장의 사진의 가족관계를 파악하는 인공지능
 
